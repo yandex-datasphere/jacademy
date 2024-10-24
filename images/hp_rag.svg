@@ -1,0 +1,160 @@
+<svg version="1.1" baseProfile="full" width="1438.0" height="236.0" viewBox="0 0 1438 236" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+	<desc >#direction: right
+	[&lt;table&gt;Запрос | Кто такой Гарри Поттер?]
+	[&lt;table&gt;Коллекция | Гарри Поттер - это волшебник || Хогвартс - это место, где учился Гарри Поттер]
+	[&lt;state&gt;Поиск]
+	[Запрос] -&gt; [Поиск]
+	[Коллекция] -&gt; [Индекс]
+	[Индекс] -&gt; [Поиск]
+	[Поиск] -&gt; [&lt;table&gt;Контекст | Гарри Поттер - это волшебник]
+	[&lt;state&gt;YandexGPT]
+	[Контекст] -&gt; [YandexGPT]
+	[Запрос] -&gt; [YandexGPT]
+	[YandexGPT] -&gt; [&lt;table&gt;Ответ | Гарри Поттер - волшебник]
+	</desc>
+	<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+		<g font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+			<g stroke="transparent" fill="transparent">
+				<rect x="0.0" y="0.0" height="236.0" width="1438.0" stroke="none"></rect>
+			</g>
+			<g transform="translate(8, 8)" fill="#33322E">
+				<g transform="translate(20, 20)" fill="#33322E" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal">
+					<path d="M601.0 62.0 L621 68 L649.0016671884483 91.69371839022551 L649.0 91.7 " fill="none"></path>
+					<path d="M640.5 91.5 L649.0 91.7 L647.4 83.3 L654.1 96.0 Z"></path>
+					<path d="M361.0 132.0 L381 132 L457.8333333333333 132 L457.8 132.0 " fill="none"></path>
+					<path d="M451.2 137.3 L457.8 132.0 L451.2 126.7 L464.5 132.0 Z"></path>
+					<path d="M537.5 132.0 L621 132 L634.7776959586463 126.70088616975143 L634.8 126.7 " fill="none"></path>
+					<path d="M630.5 134.1 L634.8 126.7 L626.6 124.1 L641.0 124.3 Z"></path>
+					<path d="M705.0 112.0 L725 112 L738.3333333333334 112 L738.3 112.0 " fill="none"></path>
+					<path d="M731.7 117.3 L738.3 112.0 L731.7 106.7 L745.0 112.0 Z"></path>
+					<path d="M985.0 112.0 L1005 112 L1039.3067166425747 94.96494070161809 L1039.3 95.0 " fill="none"></path>
+					<path d="M1035.7 102.7 L1039.3 95.0 L1031.0 93.2 L1045.3 92.0 Z"></path>
+					<path d="M601.0 15.3 L621 12 L673 12 L673 12 L725 12 L725 12 L865 12 L865 12 L1005 12 L1005 12 L1054.377086980379 55.58804919647248 L1054.4 55.6 " fill="none"></path>
+					<path d="M1045.8 55.2 L1054.4 55.6 L1052.9 47.2 L1059.4 60.0 Z"></path>
+					<path d="M1130.0 76.0 L1150 76 L1163.3333333333333 76 L1163.3 76.0 " fill="none"></path>
+					<path d="M1156.7 81.3 L1163.3 76.0 L1156.7 70.7 L1170.0 76.0 Z"></path>
+					<g data-name="Запрос">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Запрос">
+							<rect x="401.0" y="0.0" height="64.0" width="200.0" data-name="Запрос"></rect>
+							<path d="M401.0 32.0 L401.0 32.0" fill="none" data-name="Запрос"></path>
+							<path d="M401.0 32.0 L601.0 32.0" fill="none" data-name="Запрос"></path>
+							<path d="M601.0 32.0 L601.0 64.0" fill="none" data-name="Запрос"></path>
+						</g>
+						<g transform="translate(401, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Запрос">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Запрос">
+								<text x="92.0" y="14.1" stroke="none" text-anchor="middle" data-name="Запрос">Запрос</text>
+								
+							</g>
+						</g>
+						<g transform="translate(401, 32)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="Запрос">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="Запрос">
+								<text x="0.0" y="14.1" stroke="none" data-name="Запрос">Кто такой Гарри Поттер?</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Коллекция">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Коллекция">
+							<rect x="0.0" y="84.0" height="96.0" width="361.0" data-name="Коллекция"></rect>
+							<path d="M0.0 116.0 L0.0 116.0" fill="none" data-name="Коллекция"></path>
+							<path d="M0.0 116.0 L361.0 116.0" fill="none" data-name="Коллекция"></path>
+							<path d="M0.0 148.0 L361.0 148.0" fill="none" data-name="Коллекция"></path>
+							<path d="M361.0 116.0 L361.0 180.0" fill="none" data-name="Коллекция"></path>
+						</g>
+						<g transform="translate(0, 84)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Коллекция">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Коллекция">
+								<text x="172.5" y="14.1" stroke="none" text-anchor="middle" data-name="Коллекция">Коллекция</text>
+								
+							</g>
+						</g>
+						<g transform="translate(0, 116)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="Коллекция">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="Коллекция">
+								<text x="0.0" y="14.1" stroke="none" data-name="Коллекция">Гарри Поттер - это волшебник</text>
+								
+							</g>
+						</g>
+						<g transform="translate(0, 148)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="Коллекция">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="Коллекция">
+								<text x="0.0" y="14.1" stroke="none" data-name="Коллекция">Хогвартс - это место, где учился Гарри Поттер</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Поиск">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Поиск">
+							<rect x="641.0" y="96.0" rx="16.0" ry="16.0" height="32.0" width="64.0" data-name="Поиск"></rect>
+						</g>
+						<g transform="translate(641, 96)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="Поиск">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Поиск">
+								<text x="24.0" y="14.1" stroke="none" text-anchor="middle" data-name="Поиск">Поиск</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Индекс">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Индекс">
+							<rect x="464.5" y="116.0" height="32.0" width="73.0" data-name="Индекс"></rect>
+						</g>
+						<g transform="translate(464.5, 116)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Индекс">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Индекс">
+								<text x="28.5" y="14.1" stroke="none" text-anchor="middle" data-name="Индекс">Индекс</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Контекст">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Контекст">
+							<rect x="745.0" y="80.0" height="64.0" width="240.0" data-name="Контекст"></rect>
+							<path d="M745.0 112.0 L745.0 112.0" fill="none" data-name="Контекст"></path>
+							<path d="M745.0 112.0 L985.0 112.0" fill="none" data-name="Контекст"></path>
+							<path d="M985.0 112.0 L985.0 144.0" fill="none" data-name="Контекст"></path>
+						</g>
+						<g transform="translate(745, 80)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Контекст">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Контекст">
+								<text x="112.0" y="14.1" stroke="none" text-anchor="middle" data-name="Контекст">Контекст</text>
+								
+							</g>
+						</g>
+						<g transform="translate(745, 112)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="Контекст">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="Контекст">
+								<text x="0.0" y="14.1" stroke="none" data-name="Контекст">Гарри Поттер - это волшебник</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="YandexGPT">
+						<g fill="#eee8d5" stroke="#33322E" data-name="YandexGPT">
+							<rect x="1025.0" y="60.0" rx="16.0" ry="16.0" height="32.0" width="105.0" data-name="YandexGPT"></rect>
+						</g>
+						<g transform="translate(1025, 60)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="YandexGPT">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="YandexGPT">
+								<text x="44.5" y="14.1" stroke="none" text-anchor="middle" data-name="YandexGPT">YandexGPT</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Ответ">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Ответ">
+							<rect x="1170.0" y="44.0" height="64.0" width="212.0" data-name="Ответ"></rect>
+							<path d="M1170.0 76.0 L1170.0 76.0" fill="none" data-name="Ответ"></path>
+							<path d="M1170.0 76.0 L1382.0 76.0" fill="none" data-name="Ответ"></path>
+							<path d="M1382.0 76.0 L1382.0 108.0" fill="none" data-name="Ответ"></path>
+						</g>
+						<g transform="translate(1170, 44)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Ответ">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Ответ">
+								<text x="98.0" y="14.1" stroke="none" text-anchor="middle" data-name="Ответ">Ответ</text>
+								
+							</g>
+						</g>
+						<g transform="translate(1170, 76)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="Ответ">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="Ответ">
+								<text x="0.0" y="14.1" stroke="none" data-name="Ответ">Гарри Поттер - волшебник</text>
+								
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
