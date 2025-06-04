@@ -7,8 +7,10 @@
 Сезон 2025 года посвящен изучению искусственного интеллекта, созданию своих умных ботов на специализированном конструкторе ботов БОТКОН, и немного изучению языка Python. 
 
 * [Конструктор ботов](https://eazify.net/botcon)
-* Учимся языку Python
-* Интеллектуальные сервисы Yandex Cloud
+* [Учимся языку Python](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/Python_Intro.ipynb)
+* [Пишем игру с помощью ИИ](game/README.md)
+* [Создаём коллективный портрет](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/CogPortrait.ipynb)
+* [Интеллектуальные сервисы Yandex Cloud](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/YandexClouds.ipynb)
 
 ## [Сезон 2024](2024/)
 
