@@ -9,9 +9,9 @@
 * [Конструктор ботов](https://eazify.net/botcon)
 * [Пример текстов для бота детского лагеря](texts) [[Одним архивом](texts.zip)]
 * [Учимся языку Python](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/Python_Intro.ipynb)
-* [Пишем игру с помощью ИИ](game/README.md)
+* [Пишем игру с помощью ИИ](2025/game/README.md)
 * [Создаём коллективный портрет](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/CogPortrait.ipynb)
-* [Интеллектуальные сервисы Yandex Cloud](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/YandexClouds.ipynb)
+* [Интеллектуальные сервисы Yandex Cloud](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/YandexCloud.ipynb)
 
 ## [Сезон 2024](2024/)
 
