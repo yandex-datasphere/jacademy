@@ -7,6 +7,7 @@
 Сезон 2025 года посвящен изучению искусственного интеллекта, созданию своих умных ботов на специализированном конструкторе ботов БОТКОН, и немного изучению языка Python. 
 
 * [Конструктор ботов](https://eazify.net/botcon)
+* [Пример текстов для бота детского лагеря](texts) [[Одним архивом](texts.zip)]
 * [Учимся языку Python](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/Python_Intro.ipynb)
 * [Пишем игру с помощью ИИ](game/README.md)
 * [Создаём коллективный портрет](https://githubtocolab.com/yandex-datasphere/jacademy/blob/main/2025/CogPortrait.ipynb)
