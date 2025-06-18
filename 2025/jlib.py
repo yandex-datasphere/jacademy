@@ -3,6 +3,9 @@ import dlib
 from glob import glob
 import numpy as np
 import matplotlib.pyplot as plt
+import os
+
+print("Библиотека проектории")
 
 def sample_file(fn):
     return list(glob(fn))[0]
@@ -45,6 +48,12 @@ def display_images(l, titles=None, fontsize=12):
         plt.imshow(l[0])
         plt.axis('off')
     plt.show()
+
+if not os.path.exists("shape_predictor_68_face_landmarks.dat"):
+    print("Загружаю распознаватель опорных точек...",end='') 
+    os.system("wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2")
+    os.system("7za x shape_predictor_68_face_landmarks.dat.bz2")
+    print("Готово!")
 
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
